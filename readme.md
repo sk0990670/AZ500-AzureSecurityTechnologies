@@ -33,3 +33,10 @@
 ### Classroom Materials
 
 It is strongly recommended that MCTs and Partners access these materials and in turn, provide them separately to students.  Pointing students directly to GitHub to access Lab steps as part of an ongoing class will require them to access yet another UI as part of the course, contributing to a confusing experience for the student. An explanation to the student regarding why they are receiving separate Lab instructions can highlight the nature of an always-changing cloud-based interface and platform. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
+
+# AZ-500 Azure Security Technologies - Lab Documentation
+
+I’ve completed and documented all 11 labs from the AZ-500 course on Azure security.
+
+📘 Full step-by-step guide (with screenshots) is available here:  
+🔗 [View on Notion](https://www.notion.so/AZ500-AZureSecurityTechnologies-1ce3356021ee80e6bef7d5ac07a1ca7d)
